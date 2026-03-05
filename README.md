@@ -1,30 +1,26 @@
-# Hi 👋 I'm Firas Salman
+# 💫About Me :
 
-🔭 I’m currently working on mobile app development
-🚀 Building modern Android apps
-📫 How to reach me: FirasSalmanRepo@gmail.com
+ Hi there 👋 I am Firas Slman, I am a Software Engineer with more than 10 years of experience. I have experience of developing mobile apps in Java, Kotlin.
 
----
-
-### 🛠 Tech Stack
-- Kotlin
-- Jetpack Compose
-- Android SDK
-- Retrofit
-- Hilt
-- Room Database
-- Firebase
+- 🔭 I’m currently working on mobile app development  
+- 🚀 Building modern Android apps
+- 🌱 I’m currently learning Compose Multiplatform
+- 📫 Contact : FirasSalmanRepo@gmail.com
 
 ---
 
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
-### 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
+# 🌐Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/firassalman/)
+
 
 ---
 
-### 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/firassalman/
-- Email: FirasSalmanRepo@gmail.com
+# 🛠 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,kotlin,flutter,figma,xd,mongodb,mysql,sqlite,gradle,postman,swagger"/>
+</p>
+
+--- 
+
